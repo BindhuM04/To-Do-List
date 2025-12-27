@@ -89,7 +89,7 @@ ul li span{
   width: 40px;
   height: 40px;
   font-size: 22px;
-  color: #555;
+  color: skyblue;
   line-height: 40px;
   text-align: center;
   border-radius: 50%;
@@ -98,3 +98,4 @@ ul li span:hover{
   background: #edeef0;
 
 }
+
